@@ -238,7 +238,7 @@ class MainPanel extends React.Component {
 								<img style = {imageStyle}
 									className = 'Router-image'
 									draggable = 'false'
-									src = 'https://unifi-hd.ubnt.com/5b30823e7da7b814bb226a9fc0802a19.png'
+									src = 'access-point.png'
 									alt = 'Acces Point'/>
 							</div>
 						</div>
